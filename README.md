@@ -8,4 +8,4 @@ This repository for my assignment or project in Computer Engineering at KMUTT
 | ----------------- | ------------------------------------------------------------------ |
 | CPE100 | Computer Programming for Engineers |
 | CPE111 | Programming with Data Structures |
-| CPE213 | 	Algorithm Design |
+| CPE213 | 	Data Models |
